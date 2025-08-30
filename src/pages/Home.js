@@ -136,7 +136,7 @@ export default function Home() {
                                 </div>
 
                                 <div className=' flex flex-col gap-4'>
-                                    <Countup icon={clientsIcon} start={0} end={100} text="Clients in India" />
+                                    <Countup icon={clientsIcon} start={0} end={120} text="Clients in India" />
                                     <Countup icon={employeeIcon} start={0} end={5000} text="Employees" />
                                 </div>
                             </div>
