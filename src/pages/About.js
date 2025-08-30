@@ -147,7 +147,7 @@ export default function About() {
                              {/* Card 5 */}
                         <div className='bg-white shadow-lg rounded-lg p-6 hover:scale-110 transition-all duration-500 flex flex-col gap-4'>
                             <div className='flex space-x-2'>
-                                <img src={iso4} alt='' />
+                                <img src={src/assets/images/certificates/iso2022.png} alt='' />
 
                             </div>
                             <p className='text-l text-gray-500 font-semibold text-center'>
