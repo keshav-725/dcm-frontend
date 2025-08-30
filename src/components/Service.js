@@ -53,7 +53,7 @@ const services = [
         image: repairImg
     },
     {
-        service: "Electronic security",
+        service: "CCTV and Other Security Setup Support",
         description: "We specialize in electronic security solutions, offering advanced systems to protect your business. From CCTV surveillance to access control and alarm systems, our cutting-edge technology ensures the safety of your premises. Rely on us for customized, secure, and reliable protection solutions.",
         image: bankImg
     },
