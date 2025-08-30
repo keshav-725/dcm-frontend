@@ -142,6 +142,17 @@ export default function About() {
                             </p>
                         </div>
                     </div>
+                             {/* Card 5 */}
+                        <div className='bg-white shadow-lg rounded-lg p-6 hover:scale-110 transition-all duration-500 flex flex-col gap-4'>
+                            <div className='flex space-x-2'>
+                                <img src={sa} alt='' />
+
+                            </div>
+                            <p className='text-l text-gray-500 font-semibold text-center'>
+                                SA 8000 certification reflects our dedication to ethical and socially responsible business practices, including fair labor standards.
+                            </p>
+                        </div>
+                    </div>
                 </div>
 
                 <div className='section px-3 md:px-16 lg:px-40 py-4 md:py-8 lg:py-10'>
