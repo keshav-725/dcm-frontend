@@ -18,7 +18,7 @@ import iso1 from '../assets/images/certificates/iso2015.jpg'
 import iso2 from '../assets/images/certificates/iso14001.jpg'
 import iso3 from '../assets/images/certificates/iso45001.png'
 import sa from '../assets/images/certificates/sa.png'
-import iso4 from 'import iso1 from '../assets/images/certificates/iso2015.jpg''
+import iso4 from '../assets/images/certificates/iso2022.png'
 
 
 export default function About() {
