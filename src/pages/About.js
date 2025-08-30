@@ -37,11 +37,11 @@ export default function About() {
                             <div className='flex justify-between'>
                                 <div className='flex flex-col gap-4 lg:flex-row lg:gap-16'>
                                     <Countup icon={experienceIcon} start={0} end={23} text="Years of Experience" />
-                                    <Countup icon={servicemanIcon} start={0} end={100} text="Ex- Serviceman" />
+                                    <Countup icon={servicemanIcon} start={0} end={350} text="Ex- Serviceman" />
                                 </div>
 
                                 <div className=' flex flex-col gap-4 lg:flex-row lg:gap-16'>
-                                    <Countup icon={clientsIcon} start={0} end={100} text="Clients in India" />
+                                    <Countup icon={clientsIcon} start={0} end={120} text="Clients in India" />
                                     <Countup icon={employeeIcon} start={0} end={5000} text="Employees" />
                                 </div>
                             </div>
