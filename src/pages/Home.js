@@ -131,7 +131,7 @@ export default function Home() {
                         <div className='w-full md:w-[50%] text-lg text-justify'>
                             <div className='flex justify-between'>
                                 <div className='flex flex-col gap-4'>
-                                    <Countup icon={experienceIcon} start={0} end={23} text="Years of Experience" />
+                                    <Countup icon={experienceIcon} start={0} end={24} text="Years of Experience" />
                                     <Countup icon={servicemanIcon} start={0} end={350} text="Ex- Serviceman" />
                                 </div>
 
