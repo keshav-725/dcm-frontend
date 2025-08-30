@@ -18,18 +18,14 @@ export default function Navbar(props) {
             <div className='px-3 md:px-16 lg:px-40 flex items-center justify-between py-1  bg-[#990011FF] text-white'>
                 <div>
                     <div className='md:flex space-x-2 hidden items-center'>
-                        <a href='social' target='' rel="noreferrer">
+                        <a href='https://www.facebook.com/people/DCM-Vigilance-Maintenance-Services-Pvt-Ltd/61577055592055/#' target='' rel="noreferrer">
                             <FacebookIcon height="18px" fill="#ffffff" />
                         </a>
-                        <a href='social' target='' rel="noreferrer">
-                            <TwitterIcon height='18px' fill='#ffffff' />
-                        </a>
-                        <a href='social' target='' rel="noreferrer">
+                        
+                        <a href='https://www.linkedin.com/company/dcm-vigilance-and-maintenance-services-private-limited/posts/?feedView=all' target='' rel="noreferrer">
                             <LinkedinIcon height='18px' fill='#ffffff' />
                         </a>
-                        <a href='social' target='' rel="noreferrer">
-                            <InstaIcon height='18px' fill='#ffffff' />
-                        </a>
+                       
                     </div>
                 </div>
                 <div className='flex space-x-4'>
