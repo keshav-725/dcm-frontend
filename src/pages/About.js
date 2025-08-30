@@ -144,7 +144,7 @@ export default function About() {
                             </p>
                         </div>
                     </div>
-                             {/* Card 5 */}
+                    {/* Card 5 */}
                         <div className='bg-white shadow-lg rounded-lg p-6 hover:scale-110 transition-all duration-500 flex flex-col gap-4'>
                             <div className='flex space-x-2'>
                                 <img src={iso4} alt='ISO 2022' />
