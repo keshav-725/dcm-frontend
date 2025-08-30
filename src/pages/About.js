@@ -151,8 +151,7 @@ export default function About() {
 
                             </div>
                             <p className='text-l text-gray-500 font-semibold text-center'>
-                                SA 8000 certification reflects our dedication to ethical and socially responsible business practices, including fair labor standards.
-                            </p>
+                                ISO/IEC 27001:2022 is the world's best-known standard for information security management systems (ISMS).
                         </div>
                     </div>
                 </div>
